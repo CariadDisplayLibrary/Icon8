@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Icon8.h
-Description: 
+Description: Icon8 font for DisplayCore
