@@ -1,2 +1,4 @@
-Icon8.cpp libraries/DisplayCore/Icon8
-Icon8.h libraries/DisplayCore/Icon8
+library.json libraries/DisplayCore/Icon8
+library.properties libraries/DisplayCore/Icon8
+README.md libraries/DisplayCore/Icon8
+src libraries/DisplayCore/Icon8
