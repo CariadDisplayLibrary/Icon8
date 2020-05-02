@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Icon8 
 
-![Icon8](https://raw.githubusercontent.com/DisplayCore/Icon8/master/Preview/Icon8.png)
+![Icon8](https://raw.githubusercontent.com/Cariad/Icon8/master/Preview/Icon8.png)
 
